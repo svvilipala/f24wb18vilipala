@@ -5,10 +5,10 @@
 <br>
 Here is the Render [Link](https://f24wb18vilipala.onrender.com)
 
-## Resource Class: Hats
+<!-- ## Resource Class: Hats
 - **style**: The style of the hat(string).
 - **material**: The material the hat is made from (string).
-- **size**: The size of the hat(string).
+- **size**: The size of the hat(string). -->
 
 ## Resource Class: Spices
 - **name**: The name of the spice(string).
