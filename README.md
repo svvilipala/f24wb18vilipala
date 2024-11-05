@@ -11,6 +11,6 @@ Here is the Render [Link](https://f24wb18vilipala.onrender.com)
 - **size**: The size of the hat(string). -->
 
 ## Resource Class: Spices
-- **name**: The name of the spice(string).
-- **origin**: The country where the spice is grown(string).
-- **potency**: A numeric value representing the flavor strength(number).
+- **Name**: The name of the spice(string).
+- **Origin**: The country where the spice is grown(string).
+- **Cost**: Cost of the spice (number).
